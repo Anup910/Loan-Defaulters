@@ -12,9 +12,11 @@ This project predicts **loan defaults** using the Lending Club dataset by applyi
 
 ## 🧰 Tools & Libraries
 
-**Languages & Libraries**: Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, TensorFlow, XGBoost, hvPlot, SciPy
-**Environment**: Jupyter Notebook / Google Colab
-**Visualization**: Seaborn, hvPlot, Matplotlib
+**Languages & Libraries**: Python, Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, TensorFlow, XGBoost, hvPlot, SciPy.
+
+**Environment**: Jupyter Notebook / Google Colab.
+
+**Visualization**: Seaborn, hvPlot, Matplotlib.
 
 ---
 
